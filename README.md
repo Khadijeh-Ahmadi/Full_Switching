@@ -14,3 +14,7 @@ Le réseau est conçu pour être **redondant et évolutif** :
 - **Deux commutateurs cœur (L3) :** gèrent le routage et le serveur DHCP.
 - **Deux commutateurs d’accès (L2) :** connectés aux PC via des VLANs.
 - **Liens Trunk et EtherChannel** pour une connectivité fiable et rapide.
+
+- 
+##  Fichiers du Projet
+-  `project_Full_Switching_Configuration.pkt` → **Fichier Cisco Packet Tracer avec la configuration complète.**
